@@ -1,0 +1,13 @@
+:root {
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Anek Bangla', sans-serif;
+}
+
+.modal-backdrop {
+    --bs-backdrop-opacity: 0.8;
+}
